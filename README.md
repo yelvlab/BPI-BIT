@@ -24,9 +24,21 @@
 
 - #### via Arduino
 
-  1. Arduino IDE
+  [BPI:BIT Wiki](http://wiki.banana-pi.org/BPI-Bit#Arduino)
 
-  2. Platform IO
+
+  1. ###### Arduino IDE：
+
+      Github:[BPI-STEAM/BPI-BIT-Arduino_IDE](https://github.com/BPI-STEAM/BPI-BIT-Arduino_IDE)
+
+      [BPI:BIT Aerduino IDE Wiki](http://wiki.banana-pi.org/BPI-Bit#Arduino_IDE)
+
+  2. ###### Platform IO:
+  
+      Github:[BPI-STEAM/BPI-BIT-PlatformIO](https://github.com/BPI-STEAM/BPI-BIT-PlatformIO)
+
+      [BPI:BIT Platform IO Wiki](http://wiki.banana-pi.org/BPI-Bit#Platform_IO)
+
 
 - #### via MicroPython
 
@@ -43,10 +55,6 @@
 2. [`pic`](/pic)存放BPI:bit板的照片与各种示意图
 
 3. [`code`](/code)存放BPI:bit板基础function测试代码
-
-4. [`programming`](/programming)存放BPI:bit板各种烧录方式的介绍
-
-5. [`Bin`](/Bin)存放BPI:bit板适配的基础功能测试、Webduino、Microython可烧写的固件
 
 ## 引脚定义
 
@@ -97,9 +105,3 @@ LED序号排布方式如下(5*5)：
 ## 接口图
 
 ![Interface zh_CN](/pic/Interface_zh_CN.JPG)
-
-## 丝印图
-
-![](/pic/top.png)
-
-![](/pic/bot.png)

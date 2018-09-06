@@ -20,17 +20,39 @@ This product uses ESP-WROOM-32 as the core design, supports Bluetooth, BLE and o
 
 The front has 25 (5*5) programmable LED lights, single GPIO control, 16777216 color display; and there are 2 user-programmable keys on the front.
 
+# BPI:BIT Instructions：
+
+- #### via Arduino
+
+  [BPI:BIT Wiki](http://wiki.banana-pi.org/BPI-Bit#Arduino)
+
+
+  1. ###### Arduino IDE：
+
+      Github:[BPI-STEAM/BPI-BIT-Arduino_IDE](https://github.com/BPI-STEAM/BPI-BIT-Arduino_IDE)
+
+      [BPI:BIT Aerduino IDE Wiki](http://wiki.banana-pi.org/BPI-Bit#Arduino_IDE)
+
+  2. ###### Platform IO:
+  
+      Github:[BPI-STEAM/BPI-BIT-PlatformIO](https://github.com/BPI-STEAM/BPI-BIT-PlatformIO)
+
+      [BPI:BIT Platform IO Wiki](http://wiki.banana-pi.org/BPI-Bit#Platform_IO)
+
+
+- #### via MicroPython
+
+- #### via Webduino
+
 ## Catalog reading
 
 1. [`doc`](/doc)There are the schematic of the BPI:bit board and the datesheets for each part of the ESP-WROOM-32, WS2812, MPU9250, etc.
 
 2. [`pic`](/pic)There are the photos and sketches of BPI:bit board
 
-3. [`Code`](/Code)There are the BPI:bit board function test code
+3. [`code`](/code)There are the BPI:bit board function test code
 
-4. [`programming`](/programing)There are introduction of various burning methods of BPI:bit board
 
-5. [`Bin`](/Bin)BPI:bit Board adapted Webduino\MicroPython\UnitTest\Other firmware
 
 ## Pin Define
 
