@@ -11,14 +11,14 @@
 
 ![](https://forum.banana-pi.org.cn/uploads/default/original/2X/7/701a545ab3d423851845b746f7cc4c588c36a561.JPG)
 
-本产品采用ESP-WROOM-32作为核心进行设计，支持蓝牙、BLE等多种通信方式。BPI:bit将完全兼容Micro：bit。
+本产品采用ESP-WROOM-32模组作为核心进行设计，支持蓝牙、BLE等多种通信方式。BPI:bit将兼容Micro：bit大部分配件以及用法。
 
 > ESP-WROOM-32
 > 448KB ROM
 > 520KB RAM
 > Wi-Fi&BLE
 
-正面具有25颗（5*5）可编程LED灯，单GPIO控制，单颗16777216色显示；并且正面还具有2个用户可编程按键。
+正面具有25颗（5*5）可编程LED灯，所有LED通过单GPIO控制，单颗16777216色显示；并且正面还具有2个用户可编程按键、两个光线传感器以及一个温度传感器。
 
 # BPI:BIT 使用方法：
 
@@ -105,3 +105,4 @@ LED序号排布方式如下(5*5)：
 ## 接口图
 
 ![Interface zh_CN](/pic/Interface_zh_CN.JPG)
+
