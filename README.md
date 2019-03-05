@@ -64,7 +64,7 @@
   <tr><td>Pin Name</td><td>Analog Function1</td><td>Analog Function2</td><td>Function1</td><td>Function2</td><td>Power</td></tr>
   <tr><td>P3</td><td>ADC2_CH4</td><td></td><td>GPIO13</td><td></td><td></td></tr>
   <tr><td>P0</td><td>ADC2_CH8</td><td>DAC_1</td><td>GPIO25</td><td></td><td></td></tr>
-  <tr><td>P4</td><td>ADC2_CH3</td><td></td><td>GPIO16</td><td></td><td></td></tr>
+  <tr><td>P4</td><td>ADC2_CH3</td><td></td><td>GPIO15</td><td></td><td></td></tr>
   <tr><td>P5</td><td>ADC1_CH7</td><td></td><td>GPIO35</td><td></td><td></td></tr>
   <tr><td>P6</td><td>ADC2_CH5</td><td></td><td>GPIO12</td><td></td><td></td></tr>
   <tr><td>P7</td><td>ADC2_CH6</td><td></td><td>GPIO14</td><td></td><td></td></tr>
