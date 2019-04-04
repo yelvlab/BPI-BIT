@@ -11,6 +11,8 @@
 
 ![](https://forum.banana-pi.org.cn/uploads/default/original/2X/7/701a545ab3d423851845b746f7cc4c588c36a561.JPG)
 
+![bpi-bit](http://wiki.banana-pi.org/images/thumb/1/12/Webduino_bit_1.JPG/300x214x300px-Webduino_bit_1.JPG.pagespeed.ic.016JoQjoJN.webp)
+
 本产品采用ESP-WROOM-32模组作为核心进行设计，支持蓝牙、BLE等多种通信方式。BPI:bit将兼容Micro：bit大部分配件以及用法。
 
 > ESP-WROOM-32
