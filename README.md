@@ -60,6 +60,8 @@
 
 ## 引脚定义
 
+![detail-04](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-04.jpg)
+
 <table>
   <tr><td>Pin Name</td><td>Analog Function1</td><td>Analog Function2</td><td>Function1</td><td>Function2</td><td>Power</td></tr>
   <tr><td>P3</td><td>ADC2_CH4</td><td></td><td>GPIO13</td><td></td><td></td></tr>
@@ -105,15 +107,8 @@ LED序号排布方式如下(5*5)：
 
 ## 接口图
 
-![Interface zh_CN](/pic/Interface_zh_CN.JPG)
-
 ![detail-05](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-05.jpg)
 
-![detail-04](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-04.jpg)
-
-![detail-01](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-01.jpg)
-
-
-
+![Interface zh_CN](/pic/Interface_zh_CN.JPG)
 
 
