@@ -22,34 +22,6 @@
 
 >  本板子分1.2和1.4版本，版本号标识在板子背面右下角
 
-# BPI:BIT 使用方法：
-
-- #### via Arduino
-
-  [BPI:BIT Wiki](http://wiki.banana-pi.org/BPI-Bit#Arduino)
-
-
-  1. ###### Arduino IDE：
-
-      Github:[BPI-STEAM/BPI-BIT-Arduino_IDE](https://github.com/BPI-STEAM/BPI-BIT-Arduino_IDE)
-
-      [BPI:BIT Aerduino IDE Wiki](http://wiki.banana-pi.org/BPI-Bit#Arduino_IDE)
-
-  2. ###### Platform IO:
-  
-      Github:[BPI-STEAM/BPI-BIT-PlatformIO](https://github.com/BPI-STEAM/BPI-BIT-PlatformIO)
-
-      [BPI:BIT Platform IO Wiki](http://wiki.banana-pi.org/BPI-Bit#Platform_IO)
-
-
-- #### via MicroPython
-
-- #### via Webduino
-
-## BPI:Bit Webduino 超快速上手指南
-
-[BPI-Bit-Webduino超快速上手指南](/doc/BPI-Bit-Webduino超快速上手指南/BPI-Bit-Webduino超快速上手指南.md)     ----[{PDF版}](/doc/BPI-Bit-Webduino超快速上手指南/BPI-Bit-Webduino超快速上手指南.pdf)
-
 ## 目录导读
 
 1. [`doc`](/doc)存放BPI:bit板的原理图以及ESP-WROOM-32、WS2812、MPU9250等各个部分的datesheet
