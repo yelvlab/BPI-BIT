@@ -107,8 +107,6 @@ LED序号排布方式如下(5*5)：
 
 ## 接口图
 
-![detail-05](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-05.jpg)
-
 ![Interface zh_CN](/pic/Interface_zh_CN.JPG)
 
-
+![detail-05](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-05.jpg)
