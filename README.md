@@ -89,7 +89,6 @@
   <tr><td>GND</td><td></td><td></td><td></td><td></td><td>GROUND</td></tr>
 </table>
 
-
 ## LED编号
 
 BPI:bit 板按照5*5排列方式焊接了25颗(编号0~24)1600万色全彩LED(WS2812),所有的LED的控制仅使用一个引脚(GPIO4)即可完成全部控制，同时BPI:bit板还预留LED电源控制引脚(GPIO2)，可以通过拉低GPIO2的点位来关闭全部LED的电源。
@@ -107,4 +106,14 @@ LED序号排布方式如下(5*5)：
 ## 接口图
 
 ![Interface zh_CN](/pic/Interface_zh_CN.JPG)
+
+![detail-05](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-05.jpg)
+
+![detail-04](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-04.jpg)
+
+![detail-01](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-01.jpg)
+
+
+
+
 
