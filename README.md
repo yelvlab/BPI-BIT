@@ -34,6 +34,12 @@
 
 3. [`code`](/code)存放BPI:bit板基础function测试代码
 
+## 接口图
+
+![Interface zh_CN](/pic/Interface_zh_CN.JPG)
+
+![detail-05](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-05.jpg)
+
 ## 引脚定义
 
 ![detail-04](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-04.jpg)
@@ -80,9 +86,3 @@ LED序号排布方式如下(5*5)：
   <tr>  <td>23</td>  <td>18</td>  <td>13</td>  <td>8</td>  <td>3</td>  </tr>
   <tr>  <td>24</td>  <td>19</td>  <td>14</td>  <td>9</td>  <td>4</td>  </tr>
 </table>
-
-## 接口图
-
-![Interface zh_CN](/pic/Interface_zh_CN.JPG)
-
-![detail-05](https://webduino.com.cn/site/img/tutorials/zh_cn/detail-05.jpg)
