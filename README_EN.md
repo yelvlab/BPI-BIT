@@ -11,7 +11,7 @@
 
 ![](https://forum.banana-pi.org.cn/uploads/default/original/2X/7/701a545ab3d423851845b746f7cc4c588c36a561.JPG)
 
-This product uses ESP-WROOM-32 as the core design, supports Bluetooth, BLE and other communication methods. BPI:bit will be fully compatible with Micro:bit.
+This product uses ESP-WROOM-32 as the core design, supports Wi-Fi, BLE and other communication methods. BPI:bit will be fully compatible with Micro:bit.
 
 > ESP-WROOM-32
 > 448KB ROM
